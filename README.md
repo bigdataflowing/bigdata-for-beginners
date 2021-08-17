@@ -25,7 +25,7 @@ bigdata tutorial for beginners
 
 ### 1、Linux基础
 
-Linux入门
+[00Linux简介](./Linux基础/00Linux简介.md)
 
 
 
